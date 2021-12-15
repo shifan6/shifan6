@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @shifan
+- 👀 I’m interested in reading
+- 🌱 I’m currently learning Electron and React
+- 📫 How to reach me ...
